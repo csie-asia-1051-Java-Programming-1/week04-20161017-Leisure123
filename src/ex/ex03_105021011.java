@@ -14,6 +14,15 @@ public class ex03_105021011 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner scn = new Scanner(System.in);
+		System.out.print("請輸入n值:");
+		int n = scn.nextInt();
+		for(int i = 1 ; i <= n ; i++ ){
+			for(int l = 1 ; l <= i ; l++){
+				System.out.print("*");
+			}
+			
+			System.out.println("");
+		}
 
 	}
 
