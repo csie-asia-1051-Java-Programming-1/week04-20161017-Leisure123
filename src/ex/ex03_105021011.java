@@ -21,7 +21,7 @@ public class ex03_105021011 {
 				System.out.print("*");
 			}
 			
-			System.out.println("");
+			System.out.println();
 		}
 
 	}

@@ -21,8 +21,9 @@ public class ex04_105021011 {
 				System.out.print("@");
 			}
 			
-			System.out.println("");
+			System.out.println();
 		}
+		
 
 
 	}
